@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Book Shelf
+title: Book ShelfBook Shelf
 slug: /book-shelf
 date: 2019-07-10T00:00:00.000Z
 description: sdasd
